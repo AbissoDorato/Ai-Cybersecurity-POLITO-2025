@@ -16,7 +16,7 @@ The project is structured around four main lab sessions, each dedicated to a spe
 ## 🧪 Lab Descriptions
 
 ### 🔹 Lab 1 — Neural Networks for Cyber Threat Classification
-In this lab, we developed and trained a basic **feedforward neural network** to classify different types of attacks based on network metrics. The main objective was to identify best hyperparameter for the NN and to find a good way to process data in order to achive the best possible performance.
+In this lab, we developed and trained a basic **feedforward neural network** to classify different types of attacks based on network metrics. The main objective was to identify best hyperparameter for the FFNN and to find a good way to process data in order to achive the best possible performance.
 
 ### 🔹 Lab 2 — Sequence and Graph-based Models: RNNs and GNNs
 This lab we used **RNN and GNN** to identify wheter a sequencec of API call was malicious or not.
